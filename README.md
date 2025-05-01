@@ -32,7 +32,5 @@ Here is the hosted link :
 
 https://educase-india-six.vercel.app/
 
-## Author
 
-- [@himanshu](https://github.com/Himanshu4922/)
 
